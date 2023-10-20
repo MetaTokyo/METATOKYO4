@@ -1,0 +1,39 @@
+{
+  "display": {
+    "title": "METATOKYO4",
+    "favicon": "favicon_asset",
+    "navmapThumbnail": "scene-thumbnail.png"
+  },
+  "owner": "",
+  "contact": {
+    "name": "author-name",
+    "email": ""
+  },
+  "main": "bin/game.js",
+  "tags": [],
+  "scene": {
+    "parcels": [
+      "0,0",
+      "0,1",
+      "1,0",
+      "1,1",
+      "2,0",
+      "2,1"
+    ],
+    "base": "0,0"
+  },
+  "source": {
+    "version": 1,
+    "origin": "builder",
+    "projectId": "370c9815-43d0-4fd5-9976-0546377352dc",
+    "point": {
+      "x": 0,
+      "y": 0
+    },
+    "rotation": "east",
+    "layout": {
+      "rows": 3,
+      "cols": 2
+    }
+  }
+}
